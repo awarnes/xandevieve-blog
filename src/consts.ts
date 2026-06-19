@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = 'Xandevieve Blog';
 export const SITE_DESCRIPTION = 'Exploring the world together ♥';
+export const SITE_BASE = '/xandevieve-blog';
