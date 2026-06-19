@@ -1,49 +1,29 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import HeroImage from '../assets/alex-and-gen.png';
+import Layout from '../layouts/BlogPost.astro';
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-	</body>
-</html>
+<Layout
+	title="Our Adventure"
+	description="Life is an adventure and I can't wait to go with you"
+	pubDate={new Date('June 15 2026')}
+	heroImage={HeroImage}
+>
+	<p>
+		In 2026 we are embarking on a new adventure to the beautiful city of Nanaimo, BC. Genevieve, Alex,
+		Annie, Phoebe, Cody, and Jane are all moving north to explore the nature, food, culture, and people
+		of Vancouver Island, British Columbia, and Canada.
+	</p>
+
+	<p>
+		We'll miss everyone we're leaving behind in Portland, Oregon but hope that you'll feel welcome to come <a target="_blank" href="https://www.google.com/maps/dir/Portland,+Oregon/Nanaimo,+British+Columbia,+Canada/@47.3887617,-125.6960048,7z/am=t/data=!4m13!4m12!1m5!1m1!1s0x54950b0b7da97427:0x1c36b9e6f6d18591!2m2!1d-122.6783853!2d45.515232!1m5!1m1!1s0x5488a15e20ac1c5b:0x50135152a7b0fd0!2m2!1d-123.9400648!2d49.1658836?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D">visit us soon</a>!
+	</p>
+
+	<p>
+		Our initial foray into the wilds of Nanaimo will be from June 27th to July 4th when we'll explore the city,
+		start to find our new favorite haunts, and begin to understand the new place we're moving to.
+
+		Then, on July 13th we'll be moving permanently to the city. At first we'll be staying in an AirBnB, and we'll
+		use the first few months to find our new home to move into full time.
+	</p>
+</Layout>

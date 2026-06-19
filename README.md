@@ -1,19 +1,6 @@
-# Astro Starter Kit: Blog
+# xandevieve-blog
 
-```sh
-pnpm create astro@latest -- --template blog
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+Blog for the xandevieve family as we move, grow, and explore Canada!
 
 ## 🚀 Project Structure
 
