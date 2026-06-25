@@ -5,26 +5,31 @@ pubDate: 'Jun 15 2026'
 heroImage: '../../assets/excited-for/nanaimo-harbour.jpg'
 ---
 
-There are a lot of things that we're excited to explore, see, and do while we're in Nanaimo. We'll be there for a full week over during Canada Day and can't wait to explore!
+There are a lot of things that we're excited to explore, see, and do while we're in Nanaimo. We'll be there for a full week during Canada Day and can't wait to explore!
 
 #### Nature
 
-Nanaimo is surrounded on one side by the harbour and on the other by tons of natural parks and spaces. There are also a bunch of different parks throughout the city. These are a few of the places that we're mosts looking forward to seeing on our first trip to Nanaimo.
+Nanaimo is surrounded on one side by the harbour and on the other by tons of natural parks and spaces. There are also a bunch of different parks throughout the city. This is a list of the places that we're most looking forward to seeing on our first trip to Nanaimo:
 
-###### Morrell Nature Sanctuary
+- [Parks and Hikes](https://maps.app.goo.gl/Qi3fnfWkXW96Dyjo7)
 
-[Morrell Nature Sanctuary](https://www.morrellnaturesanctuary.ca/)
-
-###### Colliery Dog Park
-
-Nearby the nature sanctuary we're excited to bring Annie and Phoebe to the [Colliery Dog Park](https://www.google.com/maps/place/Colliery+Dam+dog+park+parking/@49.1458301,-123.9751051,16.32z/data=!4m15!1m8!3m7!1s0x5488a15e20ac1c5b:0x50135152a7b0fd0!2sNanaimo,+BC,+Canada!3b1!8m2!3d49.1658836!4d-123.9400648!16zL20vMDF0OHJt!3m5!1s0x5488a38cf14e3b73:0xe33493852f8adbc1!8m2!3d49.1486712!4d-123.9676302!16s%2Fg%2F11f3wr2rqt?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D)
 
 #### Farmers Markets & Food
+One of the great things about Nanaimo and Vancouver Island in general is the amount of great local food available across the region. We're looking forward to exploring the local farmers markets in and around Nanaimo as well as plenty of great local restaurants.
 
-#### Climbing
+- [Farmers Markets](https://maps.app.goo.gl/pCS5rVoFHJRib7YZ9)
+- [Restaurants](https://maps.app.goo.gl/HGuHNBCSti4yetnj7)
+
+#### Climbing, Kayaking, Swimming, Oh my!
+In addition to all the parks and hiking areas, Nanaimo has a few different places to do both indoor and outdoor climbing as well as plenty of kayaking and swimming!
+
+- [Climbing, Kayaking, & Swimming](https://maps.app.goo.gl/LmtjMKhop7Lbyf4u5)
+
 
 #### Craft Spaces
+We love crafts big and small. We'll need to find the best places to get craft supplies as well as places we can do some of the bigger crafts like woodworking while we're in our rental.
 
-#### Gaming
+- [Craft Spaces](https://maps.app.goo.gl/EuGaLyswsmNGanAWA)
 
 #### The Rest
+I'm sure there are tons of other things that we'll be looking to do. We'll keep an eye out for activities, performances, and all manner of other fun things to do around the city and region.
